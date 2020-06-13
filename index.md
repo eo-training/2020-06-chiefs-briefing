@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<img class="hero-image" src="{{ site.github.url }}/assets/img/chiefs-briefing-small.jpg">
+<img class="hero-image" src="{{ site.github.url }}/assets/img/chiefs-briefing-slide-intro.png">
 
 <div class="homepage-intro">
 Welcome to the online Chiefs Briefing!
