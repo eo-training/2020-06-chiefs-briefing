@@ -36,7 +36,7 @@ collections:
 
 # Permalinks
 permalink:           /:short_year/:month/:title
-baseurl: /chiefs-briefing
+baseurl: /2020-06-chiefs-briefing
 # Fix date/time generation
 timezone: America/New_York
 
